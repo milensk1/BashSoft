@@ -1,0 +1,7 @@
+C:\Users\milensk1\Desktop\Lab\StoryMode\StoryMode\Executor\bin\Debug\Executor.exe.config
+C:\Users\milensk1\Documents\Visual Studio 2015\Projects\StoryMode\Executor\bin\Debug\Executor.exe.config
+C:\Users\milensk1\Documents\Visual Studio 2015\Projects\StoryMode\Executor\bin\Debug\Executor.exe
+C:\Users\milensk1\Documents\Visual Studio 2015\Projects\StoryMode\Executor\bin\Debug\Executor.pdb
+C:\Users\milensk1\Documents\Visual Studio 2015\Projects\StoryMode\Executor\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
+C:\Users\milensk1\Documents\Visual Studio 2015\Projects\StoryMode\Executor\obj\Debug\Executor.exe
+C:\Users\milensk1\Documents\Visual Studio 2015\Projects\StoryMode\Executor\obj\Debug\Executor.pdb
