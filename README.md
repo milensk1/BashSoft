@@ -1,2 +1,2 @@
 # BashSoft
-A simple command interpreter written on C#
+Bash-like command interpreter for Windows cmd. Written on C#
