@@ -1,8 +1,0 @@
-C:\Users\milensk1\Documents\Visual Studio 2015\Projects\StoryMode\BashSoftTesting\bin\Debug\BashSoftTesting.dll
-C:\Users\milensk1\Documents\Visual Studio 2015\Projects\StoryMode\BashSoftTesting\bin\Debug\BashSoftTesting.pdb
-C:\Users\milensk1\Documents\Visual Studio 2015\Projects\StoryMode\BashSoftTesting\bin\Debug\Executor.exe
-C:\Users\milensk1\Documents\Visual Studio 2015\Projects\StoryMode\BashSoftTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\milensk1\Documents\Visual Studio 2015\Projects\StoryMode\BashSoftTesting\bin\Debug\Executor.pdb
-C:\Users\milensk1\Documents\Visual Studio 2015\Projects\StoryMode\BashSoftTesting\obj\Debug\BashSoftTesting.csprojResolveAssemblyReference.cache
-C:\Users\milensk1\Documents\Visual Studio 2015\Projects\StoryMode\BashSoftTesting\obj\Debug\BashSoftTesting.dll
-C:\Users\milensk1\Documents\Visual Studio 2015\Projects\StoryMode\BashSoftTesting\obj\Debug\BashSoftTesting.pdb
